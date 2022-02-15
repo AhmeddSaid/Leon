@@ -61,12 +61,14 @@ body {
     font-weight: 800;
     letter-spacing: -3px;
     margin: 0;
+    user-select: none;
 }
 .special-heading + p {
     margin: -30px 0 0;
     font-size: 20px;
     text-align: center;
     color: #797979;
+    user-select: none;
 }
 @media (max-width: 767px) {
     .special-heading {
@@ -85,6 +87,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    user-select: none;
 }
 .header .logo {
     width: 60px;
@@ -160,6 +163,7 @@ body {
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
+    user-select: none;
 }
 .landing .intro-text {
     position: absolute;
@@ -186,6 +190,7 @@ body {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
+    user-select: none;
 }
 .features .container {
     display: grid;
@@ -213,6 +218,7 @@ body {
 .services {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
+    user-select: none;
 }
 .services .services-content {
     display: grid;
@@ -273,6 +279,7 @@ body {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
+    user-select: none;
 }
 .portfolio .portfolio-content {
     display: grid;
@@ -318,6 +325,7 @@ body {
     position: relative;
     width: 250px;
     height: 375px;
+    user-select: none;
 }
 @media (max-width: 991px) {
     .about .about-content .image {
@@ -422,6 +430,7 @@ body {
     padding: 30px 10px;
     text-align: center;
     font-size: 18px;
+    user-select: none;
 }
 .footer span {
     font-weight: bold;
