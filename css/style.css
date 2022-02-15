@@ -18,6 +18,10 @@
 html {
     scroll-behavior: smooth;
 }
+::selection {
+    background-color: var(--main-color);
+    color: var(--secondary-color);
+}
 body {
     font-family: "Work Sans", sans-serif;
 }
