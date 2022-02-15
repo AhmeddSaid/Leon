@@ -6,5 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/AhmeddSaid/Leon)
 ![GitHub issues](https://img.shields.io/github/issues-raw/AhmeddSaid/Leon)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/AhmeddSaid/Leon)
+
 ## Leon-Template
+
 ### Website Template Using HTML & CSS Only
